@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="com.test.jdbc.DBUtil"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.test.main.admin.membermanagement.MemberManagementDAO"/>
+    <fullyQualifiedTypeName name="com.test.main.admin.membermanagement.MemberManagementDTO"/>
+    <fullyQualifiedTypeName name="com.test.main.admin.membermanagement.ManagementOrderDTO"/>
+    <fullyQualifiedTypeName name="com.test.main.admin.membermanagement.MemberOrderDetail"/>
+    <fullyQualifiedTypeName name="com.test.main.healthcare.NowSpecDAO"/>
+    <fullyQualifiedTypeName name="com.test.main.healthcare.NowSpecDTO"/>
+    <fullyQualifiedTypeName name="com.test.main.healthcare.WantSpecDAO"/>
+    <fullyQualifiedTypeName name="com.test.main.healthcare.WantSpecDTO"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,12 @@
+
+VWeb:ImgWithoutAltCheck,"%Add an "alt" attribute to this image.(³ğ¦‚HÀRMINORZBUG
+RWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯MH½RMAJORZBUG
+WWeb:BoldAndItalicTagsCheck!"Replace this <i> tag by <em>.(È”¦šûÿÿÿÿH¾RMINORZBUG
+WWeb:BoldAndItalicTagsCheck#"Replace this <i> tag by <em>.(È”¦šûÿÿÿÿH¿RMINORZBUG
+QWeb:BoldAndItalicTagsCheck4"Replace this <i> tag by <em>.(ıÇË`HÁRMINORZBUG
+QWeb:BoldAndItalicTagsCheckI"Replace this <i> tag by <em>.(ıÇË`HÂRMINORZBUG
+fWeb:AvoidCommentedOutCodeCheck`"Remove this commented out code.(ÿÅ‘8–ò¦Ûé/HÄRMAJORZ
+CODE_SMELL
+eWeb:AvoidCommentedOutCodeChecke"Remove this commented out code.(ÂúÌ:8…úìÚé/H¬RMAJORZ
+CODE_SMELL
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿH¼RMAJORZBUG

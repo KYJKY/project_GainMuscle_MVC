@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\project\µÊ±ŸµÊ±Ÿ_JSP«¡∑Œ¡ß∆Æ\LastTeamProject3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+956223907.index
+4038002966.index
+1485403447.index
+762565374.index
+1689488139.index
+3222298881.index
+2754281001.index

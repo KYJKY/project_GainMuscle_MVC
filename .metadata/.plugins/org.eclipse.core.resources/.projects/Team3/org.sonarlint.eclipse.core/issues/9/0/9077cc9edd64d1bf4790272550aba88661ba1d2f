@@ -1,0 +1,35 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "order" 3 times.(ä–µÂüÿÿÿÿ8ÿŒÊÓé/H’RCRITICALZ
+CODE_SMELL
+t
+java:S1854!"<Remove this useless assignment to local variable "isSearch".(®‹úËøÿÿÿÿ8™Ë»Óé/H–RMAJORZ
+CODE_SMELL
+q
+java:S1854;">Remove this useless assignment to local variable "memberList".(áÀİ…8ÿŒÊÓé/H—RMAJORZ
+CODE_SMELL
+
+java:S1192"IDefine a constant instead of duplicating this literal "category" 3 times.(Öêèı8ÿŒÊÓé/H˜RCRITICALZ
+CODE_SMELL
+u
+java:S2259$"DA "NullPointerException" could be thrown; "column" is nullable here.(òë¨ÿÿÿÿÿ8™Ë»Óé/HœRMAJORZBUG
+{
+java:S1192"FDefine a constant instead of duplicating this literal "state" 3 times.(ÃãÂ)8ÿŒÊÓé/HŸRCRITICALZ
+CODE_SMELL
+—
+java:S1989L"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(òø½8‡°ÏÒé/H£RMINORZVULNERABILITY
+Œ
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤8“Æ¾Óé/H¤RMINORZ
+CODE_SMELL
+}
+java:S1192"GDefine a constant instead of duplicating this literal "column" 3 times.(¹²¸œ8ÿŒÊÓé/H¦RCRITICALZ
+CODE_SMELL
+b
+java:S1481;"/Remove this unused "memberList" local variable.(áÀİ…8ÿŒÊÓé/HªRMINORZ
+CODE_SMELL
+
+java:S1128"URemove this unused import 'com.test.main.admin.membermanagement.MemberManagementDAO'.(¿ÍàÇùÿÿÿÿ8Éûóë/H¬RMINORZ
+CODE_SMELL
+ˆ
+java:S1128"URemove this unused import 'com.test.main.admin.membermanagement.MemberManagementDTO'.(…Š½ö8Éûóë/H®RMINORZ
+CODE_SMELL

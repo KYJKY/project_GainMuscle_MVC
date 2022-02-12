@@ -1,0 +1,20 @@
+
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(Ş×”ğşÿÿÿÿ8É±Üİé/H÷RMAJORZ
+CODE_SMELL
+W
+java:S1068"&Remove this unused "rs" private field.(‰ÚèüÿÿÿÿHRMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÛÀ²İé/HŞRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(—‰¿×şÿÿÿÿHúRMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8 »ÜØé/HˆRMINORZ
+CODE_SMELL
+Y
+java:S1068"(Remove this unused "stat" private field.(²›üƒøÿÿÿÿHıRMAJORZ
+CODE_SMELL
+‡
+java:S1450"TRemove the "pstat" field and declare it as a local variable in the relevant methods.(µÈ‚Å8¹Ãğİé/HRMINORZ
+CODE_SMELL

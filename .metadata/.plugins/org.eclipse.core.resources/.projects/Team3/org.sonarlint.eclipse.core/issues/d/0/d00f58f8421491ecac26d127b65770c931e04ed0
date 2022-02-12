@@ -1,0 +1,14 @@
+
+}
+java:S1192"GDefine a constant instead of duplicating this literal "column" 3 times.(¹²¸œ8­“ş–é/HüRCRITICALZ
+CODE_SMELL
+t
+java:S1854""<Remove this useless assignment to local variable "isSearch".(®‹úËøÿÿÿÿ8ğ¸»“é/H€RMAJORZ
+CODE_SMELL
+—
+java:S1989N"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(òø½8´··é/HRMINORZVULNERABILITY
+u
+java:S2259%"DA "NullPointerException" could be thrown; "column" is nullable here.(İĞ“ùÿÿÿÿ8èùµ“é/H‚RMAJORZBUG
+Œ
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤8Æ£“é/H…RMINORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+WWeb:BoldAndItalicTagsCheck%"Replace this <i> tag by <em>.(È”¦šûÿÿÿÿH½RMINORZBUG
+WWeb:BoldAndItalicTagsCheck!"Replace this <i> tag by <em>.(È”¦šûÿÿÿÿH¾RMINORZBUG
+RWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯MH¼RMAJORZBUG
+QWeb:BoldAndItalicTagsCheckP"Replace this <i> tag by <em>.(ıÇË`HÂRMINORZBUG
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿH»RMAJORZBUG
+QWeb:BoldAndItalicTagsCheck6"Replace this <i> tag by <em>.(ıÇË`HÁRMINORZBUG
+WWeb:BoldAndItalicTagsCheck#"Replace this <i> tag by <em>.(È”¦šûÿÿÿÿH¿RMINORZBUG
+VWeb:ImgWithoutAltCheck."%Add an "alt" attribute to this image.(³ğ¦‚HÀRMINORZBUG

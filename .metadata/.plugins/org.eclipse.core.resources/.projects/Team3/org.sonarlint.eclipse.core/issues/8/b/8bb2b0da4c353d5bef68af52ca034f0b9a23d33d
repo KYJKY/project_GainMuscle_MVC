@@ -1,0 +1,32 @@
+
+m
+java:S49732"<Strings and Boxed types should be compared using "equals()".(¾ÀË¶şÿÿÿÿ8ùåÀÜé/H‰RMAJORZBUG
+‡
+java:S1450"TRemove the "pstat" field and declare it as a local variable in the relevant methods.(µÈ‚Å8†ıÛé/HÛRMINORZ
+CODE_SMELL
+[
+java:S1940(")Use the opposite operator ("!=") instead.(¸’®\8ùåÀÜé/HƒRMINORZ
+CODE_SMELL
+a
+java:S19402")Use the opposite operator ("!=") instead.(¾ÀË¶şÿÿÿÿ8ùåÀÜé/H„RMINORZ
+CODE_SMELL
+g
+java:S4973("<Strings and Boxed types should be compared using "equals()".(¸’®\8ùåÀÜé/H†RMAJORZBUG
+Y
+java:S1068"(Remove this unused "stat" private field.(²›üƒøÿÿÿÿHáRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÌåşHŞRMAJORZ
+CODE_SMELL
+W
+java:S1068"&Remove this unused "rs" private field.(‰ÚèüÿÿÿÿHåRMAJORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHßRMINORZ
+CODE_SMELL
+k	java:S106F"9Replace this use of System.out or System.err by a logger.(¬¾8ÑÄÏÛé/H§RMAJORZ
+CODE_SMELL
+m
+java:S4973<"<Strings and Boxed types should be compared using "equals()".(İà›¢şÿÿÿÿ8ùåÀÜé/HŒRMAJORZBUG
+a
+java:S1940<")Use the opposite operator ("!=") instead.(İà›¢şÿÿÿÿ8ùåÀÜé/H…RMINORZ
+CODE_SMELL

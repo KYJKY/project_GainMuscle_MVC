@@ -1,0 +1,81 @@
+
+s	java:S1251"<This block of commented-out lines of code should be removed.(œûÁÌúÿÿÿÿ8ÂáÇ–é/HëRMAJORZ
+CODE_SMELL
+]
+java:S34577"%String contains no format specifiers.(î¼Ùıÿÿÿÿ8Ïä”é/HîRMAJORZ
+CODE_SMELL
+_
+java:S1168ø"+Return an empty collection instead of null.(¥¹ï8®¾Áé/HïRMAJORZ
+CODE_SMELL
+^
+java:S1168]"+Return an empty collection instead of null.(¥¹ï8ìô¦Ìé/HñRMAJORZ
+CODE_SMELL
+p	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÛíÍÿÿÿÿÿ8Å´ÎÄé/HóRMAJORZ
+CODE_SMELL
+q	java:S106’"9Replace this use of System.out or System.err by a logger.(Æª˜ıÿÿÿÿ8‹÷ĞÄé/HôRMAJORZ
+CODE_SMELL
+q	java:S106™"9Replace this use of System.out or System.err by a logger.(æØÒ¦ûÿÿÿÿ8„°Ğ–é/HõRMAJORZ
+CODE_SMELL
+“
+java:S1319 "`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(£éÃ8˜é¥“é/HöRMINORZ
+CODE_SMELL
+W
+java:S34579"%String contains no format specifiers.(ÖÚé8Ïä”é/HùRMAJORZ
+CODE_SMELL
+k	java:S106k"9Replace this use of System.out or System.err by a logger.(Áş‘Ó8´½ÑÃé/HúRMAJORZ
+CODE_SMELL
+_
+java:S1168"+Return an empty collection instead of null.(¥¹ï8˜é¥“é/HûRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(ëôßÊ8¼ÅÏ¨é/HıRMAJORZ
+CODE_SMELL
+l	java:S106¹"9Replace this use of System.out or System.err by a logger.(É¸è8ìÂŒ§é/HşRMAJORZ
+CODE_SMELL
+€
+java:S1192F"JDefine a constant instead of duplicating this literal "memberseq" 3 times.(ÂşÒÊ8Å´ÎÄé/HÿRCRITICALZ
+CODE_SMELL
+¤
+java:S1319ü"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®¸‡ˆ8¬Ò©¯é/HƒRMINORZ
+CODE_SMELL
+q	java:S106Ó"9Replace this use of System.out or System.err by a logger.(Å³µ±ÿÿÿÿÿ8¼ÅÏ¨é/H†RMAJORZ
+CODE_SMELL
+k	java:S106e"9Replace this use of System.out or System.err by a logger.(É¸è8Æ¥İÄé/H‡RMAJORZ
+CODE_SMELL
+’
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸²Õ¬ÿÿÿÿÿ8ìô¦Ìé/HˆRMINORZ
+CODE_SMELL
+q	java:S106¨"9Replace this use of System.out or System.err by a logger.(á–ğ‹şÿÿÿÿ8ï˜¯é/HŠRMAJORZ
+CODE_SMELL
+£
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£éÃ8˜é¥“é/H‹RMINORZ
+CODE_SMELL
+l	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(É¸è8ìô¦Ìé/HRMAJORZ
+CODE_SMELL
+k	java:S106õ"9Replace this use of System.out or System.err by a logger.(ÚöÛI8ìÂŒ§é/HRMAJORZ
+CODE_SMELL
+_
+java:S1168×"+Return an empty collection instead of null.(¥¹ï8¬Ò©¯é/HRMAJORZ
+CODE_SMELL
+’
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßå«—ıÿÿÿÿ8´½ÑÃé/H’RMINORZ
+CODE_SMELL
+k	java:S106v"9Replace this use of System.out or System.err by a logger.(É¸è8€†ŠÃé/H”RMAJORZ
+CODE_SMELL
+’
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªŞîûÿÿÿÿ8Ö©Ì¾é/H•RMINORZ
+CODE_SMELL
+k	java:S106>"9Replace this use of System.out or System.err by a logger.(Â–‘ö8Õğõ½é/H—RMAJORZ
+CODE_SMELL
+k	java:S106|"9Replace this use of System.out or System.err by a logger.(–ÒòÅ8Õğõ½é/H˜RMAJORZ
+CODE_SMELL
+‘
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚—‹Üûÿÿÿÿ8Ïä”é/H™RMINORZ
+CODE_SMELL
+l	java:S106Ş"9Replace this use of System.out or System.err by a logger.(É¸è8Ïä”é/H›RMAJORZ
+CODE_SMELL
+¤
+java:S1319¯"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İì¼Ù8®¾Áé/HœRMINORZ
+CODE_SMELL
+¤
+java:S1319Û"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŸÈüÚ8ìô¦Ìé/HŸRMINORZ
+CODE_SMELL

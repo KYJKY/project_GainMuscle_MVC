@@ -1,0 +1,19 @@
+
+c
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8¢Æ×Ýé/HÛRMINORZ
+CODE_SMELL
+o
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8¢Æ×Ýé/HÝRMINORZ
+CODE_SMELL
+a
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8¢Æ×Ýé/HßRMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8¢Æ×Ýé/HáRMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¢Æ×Ýé/HãRMINORZ
+CODE_SMELL
+d
+java:S1128	"1Remove this unused import 'com.test.jdbc.DBUtil'.(›Ãü²8¢Æ×Ýé/HåRMINORZ
+CODE_SMELL

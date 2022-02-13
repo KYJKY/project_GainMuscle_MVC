@@ -16,7 +16,6 @@
 ### 🖥 OS version(platform)
 - Windows 10
 ### ☕ JAVA 11.0.12 (JDK 1.8.0_221)
-- Eclipse version(Development tool)
 ### 🛠︎ Tool
 - Eclipse IDE for Enterprise Java Developers
 - Visual Studio Code Version 1.41
